@@ -2,7 +2,7 @@
 - 👀 I’m interested in onion-flavoured chips with not too much onion and not too many chips.
 - 🌱 I’m currently learning absolutly nothing (what am I doing whith my life ?)
 - 💞️ I’m looking to collaborate on how to escape github
-- 📫 How to reach me : you need to have excellent accuracy and a very good throw (and you need to know where I live).
+- 📫 How to reach me : you need to have excellent accuracy and a very good throw (also you need to know where I live).
 
 <!---
 Horoa/Horoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
